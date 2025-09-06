@@ -1,0 +1,1 @@
+worker: python gaming_ai_news_bot.py
