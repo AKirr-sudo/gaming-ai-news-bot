@@ -1,2 +1,9 @@
-# gaming-ai-news-bot
-Discord bot will automatically fetch gaming industry news, fact-check the content using Perplexity's AI capabilities, and post verified news updates to your Discord server on a daily schedule.
+# Gaming AI News Bot
+
+Professional gaming news delivery for Discord servers.
+
+## Copyright
+© 2025 Alexandru-Madalin Kirr. All rights reserved.
+
+## Add to Your Server
+[Your invite link here]
